@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "Clone React App in app folder"
 git clone https://github.com/sakisplus/Learn-React_app.git
