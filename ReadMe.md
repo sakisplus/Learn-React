@@ -14,7 +14,7 @@ chmod +x install.sh
 
 ## 3. Start the engines
 ```
-docker compose up -d
+docker-compose up -d
 ```
 
 > To stop running modules use ``docker-compose down`` command
