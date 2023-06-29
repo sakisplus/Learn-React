@@ -1,0 +1,3 @@
+# Exclude submodule folders
+/app
+/server
