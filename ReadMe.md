@@ -8,6 +8,7 @@ git clone https://github.com/sakisplus/Learn-React.git
 ## 2. Go to project dorectory and run the istall script
 ```
 cd Learn-React
+chmod +x install.sh
 ./install.sh
 ```
 
