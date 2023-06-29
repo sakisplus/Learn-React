@@ -22,14 +22,14 @@ chmod +x install.sh
 ```
 docker-compose up
 ```
+> If you want to start containers in detached mode type `docker-compose up -d`
+
 To stop running containers open another terminal and type
 ```
 docker-compose down
 ```
 
-> If you want to start containers in detached mode type ``docker-compose up -d``
-
-> When you stop running containers you have the otion to remove them along with their related local images and network with ``docker-compose down --rmi local`` command.
+> When you stop running containers you have the otion to remove them along with their related local images and network with `docker-compose down --rmi local` command.
 
 Find more info ubout `docker-compose` [here](https://docs.docker.com/compose/). 
 
