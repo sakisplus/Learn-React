@@ -6,14 +6,14 @@ Builds a simple DEV invironment, in docker containers, for learning React.
 # Getting started
 
 ## 1. Clone this repo
-> This will create a new folder "learn-react" in your current folder.
+> This will create a new folder "learn_react" in your current folder.
 
 ```
-git clone https://github.com/sakisplus/Learn-React.git learn-react
+git clone https://github.com/sakisplus/Learn-React.git learn_react
 ```
 ## 2. Go to project dorectory and run the istall script
 ```
-cd learn-react
+cd learn_react
 chmod +x install.sh
 ./install.sh
 ```
